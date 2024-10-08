@@ -9,3 +9,9 @@ class new1 {
     }
     
 }
+
+class new2{
+    public static void main(String[] args) {
+        
+    }
+}
