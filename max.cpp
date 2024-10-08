@@ -7,5 +7,6 @@ int main()
     cout << "Enter two numbers: ";
     cin >> a >> b;
     cout << "The maximum number is " << (a > b ? a : b) << endl;
-    return 0;
+    return 10;
+    
 }
